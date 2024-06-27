@@ -1,5 +1,5 @@
 # **Soccer_Analysis**
-*Performance analysis of teams over different seasons (Home vs Away Performance, Goals Analysis, Win/Loss Patterns.*
+*Player Performance Analysis.*
 
 [Premier League](https://www.premierleague.com)
 
